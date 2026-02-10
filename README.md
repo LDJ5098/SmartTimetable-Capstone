@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=apCBiD5LA90&list=PL0bpLNgLWNqSEkyhUqsxgQeczZ1ajG
 ### Backend
 - Ubuntu Server 20.04
 - Apache2 Web Server
-- PHP (RESTful API)
+- PHP
 - MySQL
 
 ### Communication & Protocol
